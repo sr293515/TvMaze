@@ -1,0 +1,10 @@
+#shows-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item {
+    flex: 33%;
+    border: 5px black solid;
+}
